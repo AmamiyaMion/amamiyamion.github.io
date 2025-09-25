@@ -1,9 +1,18 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我
 
-::github{repo="saicaca/fuwari"}
+你好，我是 雨宮 澪音(Amamiya Mion)，17 y.o.，是高中牲，现居天津，欢迎来面（
+也许是猫娘（？抱歉不会说话喵，可能会伤到你
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+# 成分
+
+- 计算机爱好者！ 7 岁开始接触计算机，便爱上了她
+- Python / C++ / Rust / Lua
+- Linux / BSD: NixOS, Gentoo, Debian
+- Android 刷机人，但不会构建包，也不会写模块
+- 不会 OI
+- 退坑文具控
+- 半个铁道迷
+
+# 设备
+- 联想笔记本 型号 82L5 运行 NixOS ([config here!](https://github.com/AmamiyaMion/nixos-config))
+- 红米 Note 11T Pro 运行 Android 16 类原生
