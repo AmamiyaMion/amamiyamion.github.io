@@ -20,7 +20,7 @@
 总结：菜得很，听不懂大部分技术讨论）
 
 # 设备
-- 联想笔记本 型号 82L5 运行 Arch Linux
+- 联想笔记本 型号 82L5 运行 NixOS Unstable (配置在[这里](https://github.com/AmamiyaMion/flake))
 - 红米 Note 11T Pro 运行 Android 16 类原生
 - Raspberry Pi 4B 运行 Ubuntu 25.10
 
