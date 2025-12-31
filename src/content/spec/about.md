@@ -10,7 +10,7 @@
 
 - 计算机爱好者！ 7 岁开始接触计算机，便爱上了她
 - Python / C++ / Rust / Lua
-- Linux / BSD: Arch Linux, Gentoo, Debian GNU/Linux
+- Linux / BSD: NixOS, Arch Linux, Gentoo, Debian GNU/Linux
 - Android 刷机人，但不会构建刷机包，也不会写模块
 - 不会 OI
 - 退坑文具控
@@ -21,6 +21,7 @@
 
 # 设备
 - 联想笔记本 型号 82L5 运行 NixOS Unstable (配置在[这里](https://github.com/AmamiyaMion/flake))
-- 红米 Note 11T Pro 运行 Android 16 类原生
-- Raspberry Pi 4B 运行 Ubuntu 25.10
+- 小米 Air 12.5 寸(二代) 型号 TM1607 运行 NixOS Unstable
+- 红米 Note 11T Pro 运行 LineageOS 23 (Android 16)
+- Raspberry Pi 4B 运行 NixOS Unstable
 
