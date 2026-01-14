@@ -59,7 +59,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Telegram",
 			icon: "fa6-solid:paper-plane",
-			url:***REMOVED***,
+			url: "https://t.me/Amamiya_Mion",
 		},
 		{
 			name: "GitHub",
