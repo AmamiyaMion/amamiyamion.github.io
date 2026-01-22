@@ -2,6 +2,7 @@
 
 import { getEntry, render } from "astro:content";
 import Markdown from "@components/misc/Markdown.astro";
+import LinkCard from "@components/LinkCard.astro";
 import I18nKey from "../i18n/i18nKey";
 import { i18n } from "../i18n/translation";
 import MainGridLayout from "../layouts/MainGridLayout.astro";
@@ -9,10 +10,11 @@ import MainGridLayout from "../layouts/MainGridLayout.astro";
 const linksPost = await getEntry("spec", "links");
 
 if (!linksPost) {
-	throw new Error("Links page content not found");
+        throw new Error("Links page content not found");
 }
 
 const { Content } = await render(linksPost);
+const links = linksPost.data.links || [];
 ---
 <MainGridLayout title={i18n(I18nKey.links)} description={i18n(I18nKey.links)}>
     <div class="flex w-full rounded-[var(--radius-large)] overflow-hidden relative min-h-32">
@@ -20,6 +22,13 @@ const { Content } = await render(linksPost);
             <Markdown class="mt-2">
                 <Content />
             </Markdown>
+            {links.length > 0 && (
+                <div class="mt-6 space-y-4">
+                    {links.map((link) => (
+                        <LinkCard name={link.name} url={link.url} description={link.description} avatar={link.avatar} />
+                    ))}
+                </div>
+            )}
         </div>
     </div>
 </MainGridLayout>
