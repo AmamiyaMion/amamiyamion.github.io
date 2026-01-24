@@ -11,6 +11,10 @@ links:
     description: 我们生活在大地上，但我们的梦想超越天空
     avatar: https://lfs.libmbr.com/assets/pics/LG4v5Savatar180px.webp
     url: https://www.libmbr.com
+  - name: Rikka
+    description: 早上好哦(つω`*)～☆
+    avatar: https://rikka.im/avatar.webp
+    url: https://rikka.im
 ---
 
 # 友链
