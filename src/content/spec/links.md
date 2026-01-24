@@ -15,6 +15,9 @@ links:
     description: 早上好哦(つω`*)～☆
     avatar: https://rikka.im/avatar.webp
     url: https://rikka.im
+  - name: Renna
+    avatar: https://renna.dev/assets/avatar.jpg
+    url: https://renna.dev
 ---
 
 # 友链
