@@ -4,6 +4,9 @@ links:
     description: 天生骄傲
     avatar: /links-assets/noa.jpg
     url: https://herbarium.requiem.garden
+  - name: Misaka13514
+    avatar: /links-assets/misaka.webp
+    url: https://blog.apeiria.net
 ---
 
 # 友链
