@@ -24,7 +24,7 @@ PGP ID `31829672594B6DD8`
 
 - 联想笔记本 型号 82L5 运行 NixOS Unstable (配置在[这里](https://github.com/AmamiyaMion/flake))
 - 小米 Air 12.5 寸(二代) 型号 TM1607 运行 NixOS Unstable
-- 红米 Note 11T Pro 运行 LineageOS 23 (Android 16)
+- 红米 Note 11T Pro 运行 Pixel OS (Android 14)
 - Raspberry Pi 4B 运行 NixOS Unstable
 
 ## 联系我
